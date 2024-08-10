@@ -58,3 +58,4 @@ Desenvolva um sistema de gerenciamento de biblioteca utilizando Java, implementa
 
 - O arquivo `biblioteca.sql` deve ser importado para o MySQL Workbench para estabelecer a conexão com o banco de dados.
 - Caso o usuário e a senha do banco de dados sejam diferentes, é necessário alterar as configurações na classe `ConexaoMysql.java`.
+- É necessário adicionar o arquivo mysql-connector-j-8.3.0.jar à biblioteca do seu projeto, de acordo com a IDE que você utiliza. Caso essa versão se torne obsoleta, pode ser necessário utilizar uma versão mais recente.
